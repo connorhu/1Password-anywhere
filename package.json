@@ -1,0 +1,28 @@
+{
+  "name": "1Password-anywhere",
+  "version": "1.0.0",
+  "description": "The real 1Password anywhere",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connorhu/1Password-anywhere.git"
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "1Password"
+  ],
+  "author": "Karoly 'Connor' Gossler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/connorhu/1Password-anywhere/issues"
+  },
+  "devDependencies":
+    "electron-prebuilt": "^1.2.0"
+  }
+}
