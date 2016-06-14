@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/connorhu/1Password-anywhere/issues"
   },
-  "devDependencies":
+  "devDependencies": {
     "electron-prebuilt": "^1.2.0"
   }
 }
